@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 1
+http://live1.acangroup.org:1930/larts/rts1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowNDoxNSBBTSZoYXNoX3ZhbHVlPUd0ZDA5RWpkaDhBdkJwTExnU1hweUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SN" tvg-url="" group-title="",RTS 2
+http://live1.acangroup.org:1930/larts/rts2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjAgMzowODozOCBBTSZoYXNoX3ZhbHVlPXBXbkkxdDg4YTdGTHVUVUdnekpnVlE9PSZ2YWxpZG1pbnV0ZXM9MTA=
